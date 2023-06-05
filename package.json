@@ -27,8 +27,8 @@
     "node-localstorage": "^2.1.6"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.10.4",
-    "@babel/preset-flow": "^7.10.4",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-flow": "^7.21.4",
     "@types/jest": "^26.0.4",
     "babel-jest": "^26.1.0",
     "jest": "^26.1.0",
